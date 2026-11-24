@@ -6,16 +6,26 @@
 
 *Your server, under control, from anywhere.*
 
-[![Website](https://img.shields.io/badge/website-adictospanel.com-blue)](https://adictospanel.com/en)
-[![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://demo.adictospanel.com/)
-[![Docs](https://img.shields.io/badge/docs-documentation-informational)](https://documentation.adictospanel.com/en/)
-[![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.adictospanel.com)
-[![FiveM](https://img.shields.io/badge/FiveM-ESX%20%7C%20QBCore%20%7C%20Qbox-orange)](https://documentation.adictospanel.com/en/installation)
-[![Free plan](https://img.shields.io/badge/plan-Free%20%2B%20Premium-success)](https://store.adictospanel.com/panel)
+[![Live demo](https://img.shields.io/badge/Live_demo-open-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://demo.adictospanel.com/)
+[![Documentation](https://img.shields.io/badge/Documentation-install-0A84FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://documentation.adictospanel.com/en/installation)
+[![Website](https://img.shields.io/badge/adictospanel.com-visit-2563EB?style=for-the-badge)](https://adictospanel.com/en)
+[![Discord](https://img.shields.io/badge/Discord-join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.adictospanel.com)
+[![FiveM](https://img.shields.io/badge/FiveM-ESX%20%7C%20QBCore%20%7C%20Qbox-orange?style=flat-square)](https://documentation.adictospanel.com/en/installation)
+[![Plans](https://img.shields.io/badge/plan-Free%20%2B%20Premium-success?style=flat-square)](https://store.adictospanel.com/panel)
 
 <p align="center"><a href="https://adictospanel.com/en"><img src="assets/adictospanel-logo.png" alt="AdictosPanel" width="160"></a></p>
 
-[Website](https://adictospanel.com/en) · [Live demo](https://demo.adictospanel.com/) · [Documentation](https://documentation.adictospanel.com/en/) · [Store](https://store.adictospanel.com/) · [Discord](https://discord.adictospanel.com) · [vs txAdmin](https://adictospanel.com/en/funciones/vs-txadmin)
+[Website](https://adictospanel.com/en) · [Live demo](https://demo.adictospanel.com/) · [Installation guide](https://documentation.adictospanel.com/en/installation) · [Documentation](https://documentation.adictospanel.com/en/) · [Store](https://store.adictospanel.com/) · [Discord](https://discord.adictospanel.com) · [vs txAdmin](https://adictospanel.com/en/funciones/vs-txadmin)
+
+### Preview ([live demo](https://demo.adictospanel.com/))
+
+Sample data from the public demo — explore the same UI with your Steam account on a real server.
+
+| Dashboard | Logs (GENERAL) | Live map | Tickets |
+|:---:|:---:|:---:|:---:|
+| [![Dashboard](docs/screenshots/dashboard.png)](https://demo.adictospanel.com/) | [![Logs](docs/screenshots/logs-general.png)](https://demo.adictospanel.com/) | [![Live map](docs/screenshots/live-map.webp)](https://demo.adictospanel.com/) | [![Tickets](docs/screenshots/tickets.png)](https://demo.adictospanel.com/) |
+
+<sub>Sanctions: [bans list](docs/screenshots/bans.png) · All captures from the demo (fictitious data).</sub>
 
 </div>
 
@@ -112,7 +122,9 @@ AdictosPanel **doesn't replace txAdmin, it complements it.** txAdmin starts, res
 
 Para conectarlo, instala el recurso gratuito **Adictos_WebLogs** desde Cfx.re o Tebex. Ponlo con `ensure` en `server.cfg` después del framework, `oxmysql` y `ox_lib`, y abre con Steam el enlace `/link/...` que aparece en la consola. Hay un plan Free y otro Premium por 9,99 €/mes.
 
-[Web](https://adictospanel.com) · [Demo](https://demo.adictospanel.com) · [Documentación](https://documentation.adictospanel.com) · [Guía de instalación](https://documentation.adictospanel.com/installation) · [Tienda](https://store.adictospanel.com) · [Discord](https://discord.adictospanel.com) · [Comparativa con txAdmin](https://adictospanel.com/funciones/comparativa-txadmin)
+Vista previa en capturas de la [demo pública](https://demo.adictospanel.com/) (datos ficticios). Guía de instalación: [documentation.adictospanel.com/en/installation](https://documentation.adictospanel.com/en/installation) (también en [español](https://documentation.adictospanel.com/installation)).
+
+[Web](https://adictospanel.com) · [Demo](https://demo.adictospanel.com) · [Documentación](https://documentation.adictospanel.com) · [Guía de instalación](https://documentation.adictospanel.com/en/installation) · [Tienda](https://store.adictospanel.com) · [Discord](https://discord.adictospanel.com) · [Comparativa con txAdmin](https://adictospanel.com/funciones/comparativa-txadmin)
 
 ---
 
